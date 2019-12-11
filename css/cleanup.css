@@ -1,5 +1,5 @@
  /*write your override styles here */
-/*#wall .tag-1 {
+#wall .tag-1 {
     display: none;
 }
 
@@ -25,12 +25,12 @@
 
 #wall .parent div #tag-7.slick {
     display: none;
-}*/
+}
 
 
 /*xxxxxxxx*/
 
-div#wall div.tag-1 {
+/*div#wall div.tag-1 {
     display: none;
 }
 
@@ -48,4 +48,4 @@ div#wall div.parent + div {
 
 div#wall #tag-4 {
     display: none;
-}
+}*/
