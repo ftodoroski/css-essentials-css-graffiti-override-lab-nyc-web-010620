@@ -5,3 +5,8 @@
 #wall div#tag-2 {
     display: none;
 }
+
+
+#wall .parent div#tag-4 {
+    display: none;
+}
