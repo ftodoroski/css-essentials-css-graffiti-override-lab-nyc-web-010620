@@ -1,4 +1,4 @@
-/*div#wall .tag-1 {
+div#wall div.tag-1 {
     display: none;
 }
 
@@ -16,7 +16,7 @@ div#wall .parent div#tag-4 {
 
 div#wall div.parent + div {
   display: none;
-}*/
+}
 
 
 div#wall div.tag-1 {
