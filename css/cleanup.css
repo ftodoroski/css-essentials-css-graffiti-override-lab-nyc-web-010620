@@ -1,19 +1,19 @@
-#wall .tag-1 {
+div#wall .tag-1 {
     display: none;
 }
 
-#wall div#tag-2 {
+div#wall div#tag-2 {
     display: none;
 }
 
-#wall div#tag-3.slick.wicked {
+div#wall div#tag-3.slick.wicked {
   display: none;
 }
 
-#wall .parent div#tag-4 {
+div#wall .parent div#tag-4 {
     display: none;
 }
 
-#wall div.parent + div {
+div#wall div.parent + div {
   display: none;
 }
