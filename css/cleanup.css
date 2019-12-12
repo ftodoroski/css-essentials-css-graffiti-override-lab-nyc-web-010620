@@ -19,10 +19,9 @@ div#wall div.parent + div {
 }*/
 
 
-
- div#wall div.tag-1 {
+div#wall div.tag-1 {
     display: none;
-} */
+}
 
  div#wall div#tag-2 {
     display: none;
